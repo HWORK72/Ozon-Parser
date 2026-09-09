@@ -1,0 +1,518 @@
+{
+    "metadata": {
+        "total_items": 51,
+        "generated_at": "2026-09-08T18:21:57.705897+00:00"
+    },
+    "items": [
+        {
+            "id": "4191833812",
+            "title": "Taganay для работы и учебы Ноутбук 15.6\", AMD Ryzen 3 3200U, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon Vega 3, Windows Home, серый, Русская раскладка",
+            "price_current": 39825,
+            "price_original": 39825,
+            "discount_percent": 0,
+            "rating": 4.8,
+            "reviews_count": 84475,
+            "url": "https://www.ozon.ru/product/taganay-dlya-raboty-i-ucheby-noutbuk-15-6-amd-ryzen-3-3200u-ram-16-gb-ssd-512-gb-amd-radeon-vega-4191833812/"
+        },
+        {
+            "id": "5697593366",
+            "title": "Ноутбук 15.6\", Intel N95, RAM 32 ГБ, SSD 512 ГБ, Intel HD Graphics 615, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 30470,
+            "price_original": 30470,
+            "discount_percent": 0,
+            "rating": 4.8,
+            "reviews_count": 8304,
+            "url": "https://www.ozon.ru/product/noutbuk-15-6-intel-n95-ram-32-gb-ssd-512-gb-intel-hd-graphics-615-windows-pro-serebristyy-5697593366/"
+        },
+        {
+            "id": "3291964163",
+            "title": "Lunnen Ноутбук 16\", AMD Ryzen 7 7840HS, RAM 32 ГБ, SSD 1000 ГБ, AMD Radeon 780M, Windows Home, синий, Русская раскладка",
+            "price_current": 78001,
+            "price_original": 78001,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 7190,
+            "url": "https://www.ozon.ru/product/lunnen-noutbuk-16-amd-ryzen-7-7840hs-ram-32-gb-ssd-1000-gb-amd-radeon-780m-windows-home-siniy-3291964163/"
+        },
+        {
+            "id": "4077592605",
+            "title": "Xiaomi Redmibook Pro 16 2026 3200×2000 165Hz Ноутбук 16\", Intel Core Ultra X7 358H, RAM 32 ГБ, SSD 1024 ГБ, Intel Arc B390, Windows Pro, (A1602), серый, Русская раскладка",
+            "price_current": 125595,
+            "price_original": 125595,
+            "discount_percent": 0,
+            "rating": 5.0,
+            "reviews_count": 6,
+            "url": "https://www.ozon.ru/product/xiaomi-redmibook-pro-16-2026-3200-2000-165hz-noutbuk-16-intel-core-ultra-x7-358h-ram-32-gb-ssd-1024-4077592605/"
+        },
+        {
+            "id": "4329403730",
+            "title": "Ноутбук 15.6\", Intel N95, RAM 32 ГБ, SSD 512 ГБ, Intel UHD Graphics, Windows Pro, (R5), серебристый, Русская раскладка",
+            "price_current": 26754,
+            "price_original": 26754,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 7213,
+            "url": "https://www.ozon.ru/product/noutbuk-15-6-intel-n95-ram-32-gb-ssd-512-gb-intel-uhd-graphics-windows-pro-r5-serebristyy-4329403730/"
+        },
+        {
+            "id": "2475905063",
+            "title": "Neobihier Игровой ноутбук 16\", Intel Core i7-9750H, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 (8 Гб), Windows Pro, серебристый, Русская раскладка",
+            "price_current": 60816,
+            "price_original": 291636,
+            "discount_percent": 79,
+            "rating": 5.0,
+            "reviews_count": 1240,
+            "url": "https://www.ozon.ru/product/neobihier-igrovoy-noutbuk-16-intel-core-i7-9750h-ram-16-gb-ssd-512-gb-nvidia-geforce-rtx-3050-8-2475905063/"
+        },
+        {
+            "id": "4398808281",
+            "title": "Windows 10, ультратонкий Ноутбук 13.5\", Intel Celeron N4000C, RAM 8 ГБ, SSD 128 ГБ, Intel UHD Graphics, Windows Pro, серый, Английская раскладка",
+            "price_current": 23919,
+            "price_original": 48888,
+            "discount_percent": 51,
+            "rating": 5.0,
+            "reviews_count": 23,
+            "url": "https://www.ozon.ru/product/windows-10-ultratonkiy-noutbuk-13-5-intel-celeron-n4000c-ram-8-gb-ssd-128-gb-intel-uhd-4398808281/"
+        },
+        {
+            "id": "5198450014",
+            "title": "Machcreator Genesis R14 Ноутбук 14.1\", AMD Ryzen 5 7640HS, RAM 16 ГБ, SSD 1024 ГБ, AMD Radeon 760M, Без системы, (JJ00GW00GRU), серый, Русская раскладка",
+            "price_current": 62947,
+            "price_original": 62947,
+            "discount_percent": 0,
+            "rating": 5.0,
+            "reviews_count": 5,
+            "url": "https://www.ozon.ru/product/machcreator-genesis-r14-noutbuk-14-1-amd-ryzen-5-7640hs-ram-16-gb-ssd-1024-gb-amd-radeon-760m-5198450014/"
+        },
+        {
+            "id": "4114187063",
+            "title": "Lenovo ThinkPad X13 PRO 13,3 дюйма на процессоре Core, компактный для офисной работы，SSD от крупных брендов Ноутбук 13.3\", Intel Core i5-10210U, RAM 16 ГБ, SSD 256 ГБ, Intel UHD Graphics, Windows Pro, (lenovo thinkpad X13 GEN1), черный, Русская раскладка",
+            "price_current": 30387,
+            "price_original": 39375,
+            "discount_percent": 23,
+            "rating": 4.9,
+            "reviews_count": 963,
+            "url": "https://www.ozon.ru/product/lenovo-thinkpad-x13-pro-13-3-dyuyma-na-protsessore-core-kompaktnyy-dlya-ofisnoy-raboty-ssd-4114187063/"
+        },
+        {
+            "id": "3973889216",
+            "title": "Для работы и учебы Ноутбук 15.6\", Intel Celeron N5095, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics, Windows Home, серый, Русская раскладка",
+            "price_current": 39375,
+            "price_original": 59050,
+            "discount_percent": 33,
+            "rating": 4.8,
+            "reviews_count": 84475,
+            "url": "https://www.ozon.ru/product/dlya-raboty-i-ucheby-noutbuk-15-6-intel-celeron-n5095-ram-16-gb-ssd-512-gb-intel-uhd-3973889216/"
+        },
+        {
+            "id": "4899084734",
+            "title": "Neobihier Игровой ноутбук 16.1\", Intel Core i7-11370H, RAM 32 ГБ, SSD 2048 ГБ, NVIDIA GeForce RTX 4050 для ноутбуков (6 Гб), Windows Pro, светло-серый, Русская раскладка",
+            "price_current": 90772,
+            "price_original": 155558,
+            "discount_percent": 42,
+            "rating": 4.9,
+            "reviews_count": 91691,
+            "url": "https://www.ozon.ru/product/neobihier-igrovoy-noutbuk-16-1-intel-core-i7-11370h-ram-32-gb-ssd-2048-gb-nvidia-geforce-rtx-4050-4899084734/"
+        },
+        {
+            "id": "5048197530",
+            "title": "Ноутбук 15.6\", Intel N95, RAM 32 ГБ, SSD 512 ГБ, Intel HD Graphics 615, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 26125,
+            "price_original": 26125,
+            "discount_percent": 0,
+            "rating": 4.8,
+            "reviews_count": 8304,
+            "url": "https://www.ozon.ru/product/noutbuk-15-6-intel-n95-ram-32-gb-ssd-512-gb-intel-hd-graphics-615-windows-pro-serebristyy-5048197530/"
+        },
+        {
+            "id": "5668335296",
+            "title": "Digma Chronos Ноутбук 16\", Intel Core 5 210H, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics, Windows Pro, (DN16P5-ADXW02), серебристый, Русская раскладка",
+            "price_current": 66691,
+            "price_original": 66691,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 7312,
+            "url": "https://www.ozon.ru/product/digma-chronos-noutbuk-16-intel-core-5-210h-ram-16-gb-ssd-512-gb-intel-uhd-graphics-windows-5668335296/"
+        },
+        {
+            "id": "4972949323",
+            "title": "NIPOGI LX15 Pro Ноутбук 15.6\", AMD Ryzen 5 7430U, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX Vega 7, Windows Pro, серый металлик, Английская раскладка",
+            "price_current": 34007,
+            "price_original": 129180,
+            "discount_percent": 74,
+            "rating": 4.8,
+            "reviews_count": 8151,
+            "url": "https://www.ozon.ru/product/nipogi-lx15-pro-noutbuk-15-6-amd-ryzen-5-7430u-ram-16-gb-ssd-512-gb-amd-radeon-rx-vega-7-windows-pro-4972949323/"
+        },
+        {
+            "id": "4697910252",
+            "title": "Ноутбук 14\", Intel Pentium J3710, RAM 8 ГБ, SSD 256 ГБ, Intel HD Graphics 405, Windows Pro, розовый, светло-розовый, Русская раскладка",
+            "price_current": 30498,
+            "price_original": 150000,
+            "discount_percent": 80,
+            "rating": 4.8,
+            "reviews_count": 8155,
+            "url": "https://www.ozon.ru/product/noutbuk-14-intel-pentium-j3710-ram-8-gb-ssd-256-gb-intel-hd-graphics-405-windows-pro-rozovyy-4697910252/"
+        },
+        {
+            "id": "3814686822",
+            "title": "Ноутбук 15.6\", RAM 16 ГБ, SSD 512 ГБ, Intel HD Graphics, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 27249,
+            "price_original": 73632,
+            "discount_percent": 63,
+            "rating": 4.8,
+            "reviews_count": 840,
+            "url": "https://www.ozon.ru/product/noutbuk-15-6-ram-16-gb-ssd-512-gb-intel-hd-graphics-windows-pro-serebristyy-russkaya-raskladka-3814686822/"
+        },
+        {
+            "id": "5631620584",
+            "title": "Acer ANV15-A31 Игровой ноутбук 15.6\", AMD Ryzen 7 170, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 5050 для ноутбуков (8 Гб), Без системы, (NH.U3QER.003), черный, Русская раскладка",
+            "price_current": 103523,
+            "price_original": 430650,
+            "discount_percent": 76,
+            "rating": 5.0,
+            "reviews_count": 409,
+            "url": "https://www.ozon.ru/product/acer-anv15-a31-igrovoy-noutbuk-15-6-amd-ryzen-7-170-ram-16-gb-ssd-512-gb-nvidia-geforce-rtx-5050-5631620584/"
+        },
+        {
+            "id": "3468604215",
+            "title": "Neobihier Ноутбук 15.6\", AMD Ryzen 7 5800H, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon Graphics, Windows Pro, белый, Русская раскладка",
+            "price_current": 38033,
+            "price_original": 68788,
+            "discount_percent": 45,
+            "rating": 5.0,
+            "reviews_count": 409,
+            "url": "https://www.ozon.ru/product/neobihier-noutbuk-15-6-amd-ryzen-7-5800h-ram-16-gb-ssd-512-gb-amd-radeon-graphics-windows-pro-belyy-3468604215/"
+        },
+        {
+            "id": "5637560902",
+            "title": "Ноутбук 15.6\", Intel Celeron N5095, RAM 16 ГБ, SSD 1024 ГБ, Intel Iris Plus Graphics, Windows Pro, хаки, Русская раскладка",
+            "price_current": 29071,
+            "price_original": 500000,
+            "discount_percent": 94,
+            "rating": 5.0,
+            "reviews_count": 181,
+            "url": "https://www.ozon.ru/product/noutbuk-15-6-intel-celeron-n5095-ram-16-gb-ssd-1024-gb-intel-iris-plus-graphics-windows-pro-haki-5637560902/"
+        },
+        {
+            "id": "3223713152",
+            "title": "Honor X16 2026 Honor Ноутбук 16\",R7-7735HS, 512 ГБ, IPS-экран,бесплатный подарок \"Русские наклейки +мышь+Коврик для мыши\" Ноутбук 16\", RAM 16 ГБ, SSD 512 ГБ, AMD Radeon 680M, Windows Home, (X16 2026), серый, Английская раскладка",
+            "price_current": 62000,
+            "price_original": 74408,
+            "discount_percent": 17,
+            "rating": 4.8,
+            "reviews_count": 8111,
+            "url": "https://www.ozon.ru/product/honor-x16-2026-honor-noutbuk-16-r7-7735hs-512-gb-ips-ekran-besplatnyy-podarok-russkie-nakleyki-3223713152/"
+        },
+        {
+            "id": "4773035442",
+            "title": "Intel Core i7 Игровой Ноутбук для игр мощный Ноутбук 15.6\", Intel Core i7-6500U, RAM 32 ГБ, SSD 2048 ГБ, Intel UHD Graphics, Windows Pro, серый, Русская раскладка",
+            "price_current": 38868,
+            "price_original": 269500,
+            "discount_percent": 86,
+            "rating": 4.9,
+            "reviews_count": 9184,
+            "url": "https://www.ozon.ru/product/intel-core-i7-igrovoy-noutbuk-dlya-igr-moshchnyy-noutbuk-15-6-intel-core-i7-6500u-ram-32-gb-ssd-4773035442/"
+        },
+        {
+            "id": "2804616072",
+            "title": "Neobihier Игровой ноутбук 16.1\", Intel Core i7-8750H, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce GTX 1650 (4 Гб), Windows Pro, серебристый, Русская раскладка",
+            "price_current": 43973,
+            "price_original": 143777,
+            "discount_percent": 69,
+            "rating": 5.0,
+            "reviews_count": 1240,
+            "url": "https://www.ozon.ru/product/neobihier-igrovoy-noutbuk-16-1-intel-core-i7-8750h-ram-16-gb-ssd-256-gb-nvidia-geforce-gtx-1650-4-2804616072/"
+        },
+        {
+            "id": "5482716385",
+            "title": "Игровой ноутбук 15.6\", Intel 80386, RAM 32 ГБ, SSD 2048 ГБ, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 30571,
+            "price_original": 30571,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 712,
+            "url": "https://www.ozon.ru/product/igrovoy-noutbuk-15-6-intel-80386-ram-32-gb-ssd-2048-gb-windows-pro-serebristyy-russkaya-raskladka-5482716385/"
+        },
+        {
+            "id": "4997022743",
+            "title": "TVEPGZD Игровой ноутбук 16\", Intel Core i7-11370H, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4060 (8 Гб), Windows Pro, серый металлик, Русская раскладка",
+            "price_current": 83708,
+            "price_original": 148298,
+            "discount_percent": 44,
+            "rating": 5.0,
+            "reviews_count": 87,
+            "url": "https://www.ozon.ru/product/tvepgzd-igrovoy-noutbuk-16-intel-core-i7-11370h-ram-16-gb-ssd-512-gb-nvidia-geforce-rtx-4060-8-gb-4997022743/"
+        },
+        {
+            "id": "5152309112",
+            "title": "Lenovo ThinkPad X13 Gen2 13,3 дюйма на процессоре Core, компактный для офисной работы Клавиатура с подсветкой Ноутбук 13.3\", Intel Core i5-1135G7, RAM 16 ГБ, SSD 512 ГБ, Intel Iris Xe Graphics, Windows Pro, (lenovo thinkpad X13 Gen2), черный матовый, Русская раскладка",
+            "price_current": 37876,
+            "price_original": 127888,
+            "discount_percent": 70,
+            "rating": 4.9,
+            "reviews_count": 963,
+            "url": "https://www.ozon.ru/product/lenovo-thinkpad-x13-gen2-13-3-dyuyma-na-protsessore-core-kompaktnyy-dlya-ofisnoy-raboty-klaviatura-s-5152309112/"
+        },
+        {
+            "id": "5212575176",
+            "title": "Ноутбук для учебы и работы игровой 4 ядра Мощный Ноутбук 15.6\", Intel Core i5-6300U, RAM 32 ГБ, SSD 2048 ГБ, Windows Pro, серебристый, хром, Русская раскладка",
+            "price_current": 32085,
+            "price_original": 32085,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 71117,
+            "url": "https://www.ozon.ru/product/noutbuk-dlya-ucheby-i-raboty-igrovoy-4-yadra-moshchnyy-noutbuk-15-6-intel-core-i5-6300u-ram-32-5212575176/"
+        },
+        {
+            "id": "4986229586",
+            "title": "DPDN L85 Игровой ноутбук 15.6\", AMD Ryzen 3 8440U, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce MX330 (2 Гб), Windows Home, (G36), черный матовый, Русская раскладка",
+            "price_current": 38091,
+            "price_original": 38091,
+            "discount_percent": 0,
+            "rating": 3.0,
+            "reviews_count": 2,
+            "url": "https://www.ozon.ru/product/dpdn-l85-igrovoy-noutbuk-15-6-amd-ryzen-3-8440u-ram-16-gb-ssd-512-gb-nvidia-geforce-mx330-2-4986229586/"
+        },
+        {
+            "id": "5631192189",
+            "title": "noopsyche 3C N19 Игровой ноутбук 15.6\", AMD Ryzen 3 8440U, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce MX330 (2 Гб), Windows Pro, (Y70), темно-серый, Русская раскладка",
+            "price_current": 32852,
+            "price_original": 211865,
+            "discount_percent": 84,
+            "rating": 5.0,
+            "reviews_count": 103,
+            "url": "https://www.ozon.ru/product/noopsyche-3c-n19-igrovoy-noutbuk-15-6-amd-ryzen-3-8440u-ram-16-gb-ssd-256-gb-nvidia-geforce-mx330-2-5631192189/"
+        },
+        {
+            "id": "4899083701",
+            "title": "Neobihier Игровой ноутбук 16.1\", Intel Core i7-11370H, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4050 для ноутбуков (6 Гб), Windows Pro, светло-серый, Русская раскладка",
+            "price_current": 72599,
+            "price_original": 128314,
+            "discount_percent": 43,
+            "rating": 4.9,
+            "reviews_count": 91691,
+            "url": "https://www.ozon.ru/product/neobihier-igrovoy-noutbuk-16-1-intel-core-i7-11370h-ram-16-gb-ssd-512-gb-nvidia-geforce-rtx-4050-4899083701/"
+        },
+        {
+            "id": "4740597450",
+            "title": "PWR 2023070 Ноутбук 14\", SSD 2048 ГБ, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 22211,
+            "price_original": 87037,
+            "discount_percent": 74,
+            "rating": 4.9,
+            "reviews_count": 9112,
+            "url": "https://www.ozon.ru/product/pwr-2023070-noutbuk-14-ssd-2048-gb-windows-pro-serebristyy-russkaya-raskladka-4740597450/"
+        },
+        {
+            "id": "5629439798",
+            "title": "L96 Игровой ноутбук 15.6\", AMD Ryzen 3 8440U, RAM 16 ГБ, SSD 256 ГБ, NVIDIA GeForce MX330 (2 Гб), Windows Home, серый, Русская раскладка",
+            "price_current": 32422,
+            "price_original": 359706,
+            "discount_percent": 91,
+            "rating": 5.0,
+            "reviews_count": 49,
+            "url": "https://www.ozon.ru/product/l96-igrovoy-noutbuk-15-6-amd-ryzen-3-8440u-ram-16-gb-ssd-256-gb-nvidia-geforce-mx330-2-gb-windows-5629439798/"
+        },
+        {
+            "id": "2425416959",
+            "title": "ZharBook Ноутбук 15.6\", Intel Core i5-5200U, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics, Windows Pro, серый, Русская раскладка",
+            "price_current": 27358,
+            "price_original": 110000,
+            "discount_percent": 75,
+            "rating": 4.8,
+            "reviews_count": 8182,
+            "url": "https://www.ozon.ru/product/zharbook-noutbuk-15-6-intel-core-i5-5200u-ram-16-gb-ssd-512-gb-intel-uhd-graphics-windows-pro-seryy-2425416959/"
+        },
+        {
+            "id": "3890825180",
+            "title": "для работы и учебы Ноутбук 15.6\", AMD Ryzen 3 3200U, RAM 8 ГБ, SSD 256 ГБ, AMD Radeon RX Vega 3, Windows Home, серый, Русская раскладка",
+            "price_current": 34940,
+            "price_original": 59950,
+            "discount_percent": 42,
+            "rating": 4.8,
+            "reviews_count": 81234,
+            "url": "https://www.ozon.ru/product/dlya-raboty-i-ucheby-noutbuk-15-6-amd-ryzen-3-3200u-ram-8-gb-ssd-256-gb-amd-radeon-rx-vega-3-windows-3890825180/"
+        },
+        {
+            "id": "5249141351",
+            "title": "HP OmniBook 14 Ноутбук 14\", Intel Core i5-13500H, RAM 16 ГБ, SSD 1024 ГБ, Intel Iris Xe Graphics, Windows Pro, белый, Английская раскладка",
+            "price_current": 56129,
+            "price_original": 167934,
+            "discount_percent": 67,
+            "rating": 5.0,
+            "reviews_count": 1,
+            "url": "https://www.ozon.ru/product/hp-omnibook-14-noutbuk-14-intel-core-i5-13500h-ram-16-gb-ssd-1024-gb-intel-iris-xe-graphics-windows-5249141351/"
+        },
+        {
+            "id": "3039334286",
+            "title": "Azerty RBA-4500 Ноутбук 15.6\", AMD Ryzen 7 6800H, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon 680M, Windows Pro, (120-1014), серый, Русская раскладка",
+            "price_current": 50658,
+            "price_original": 131910,
+            "discount_percent": 62,
+            "rating": 4.7,
+            "reviews_count": 7909,
+            "url": "https://www.ozon.ru/product/azerty-rba-4500-noutbuk-15-6-amd-ryzen-7-6800h-ram-16-gb-ssd-512-gb-amd-radeon-680m-windows-pro-120-3039334286/"
+        },
+        {
+            "id": "3154218528",
+            "title": "Machenike L16S Игровой ноутбук 16\", Intel Core i9-13900HX, RAM 32 ГБ, SSD 1024 ГБ, NVIDIA GeForce RTX 5070 для ноутбуков (8 Гб), Windows Pro, (L16S), темно-серый, Русская раскладка",
+            "price_current": 148415,
+            "price_original": 328452,
+            "discount_percent": 55,
+            "rating": 4.9,
+            "reviews_count": 9715,
+            "url": "https://www.ozon.ru/product/machenike-l16s-igrovoy-noutbuk-16-intel-core-i9-13900hx-ram-32-gb-ssd-1024-gb-nvidia-geforce-rtx-3154218528/"
+        },
+        {
+            "id": "5677029473",
+            "title": "3855U Ноутбук 15.6\", Intel Celeron 3855U, RAM 32 ГБ, SSD 2048 ГБ, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 38541,
+            "price_original": 300000,
+            "discount_percent": 87,
+            "rating": null,
+            "reviews_count": null,
+            "url": "https://www.ozon.ru/product/3855u-noutbuk-15-6-intel-celeron-3855u-ram-32-gb-ssd-2048-gb-windows-pro-serebristyy-5677029473/"
+        },
+        {
+            "id": "2120311177",
+            "title": "ASUS FX506HE /TUF Gaming /ASUS FX506HC 3050 Игровой ноутбук 15.6\", Intel Core i5-11400H, RAM 8 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 3050 для ноутбуков (4 Гб), Windows Pro, черный, Русская раскладка",
+            "price_current": 57972,
+            "price_original": 134347,
+            "discount_percent": 57,
+            "rating": 4.8,
+            "reviews_count": 8146,
+            "url": "https://www.ozon.ru/product/asus-fx506he-tuf-gaming-asus-fx506hc-3050-igrovoy-noutbuk-15-6-intel-core-i5-11400h-ram-8-gb-ssd-512-2120311177/"
+        },
+        {
+            "id": "4031972130",
+            "title": "Высокопроизводительный игровой ноутбук Игровой ноутбук 16.1\", AMD Ryzen 7 7735HS, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon RX 6500M, Windows Pro, серый, серый металлик, Английская раскладка",
+            "price_current": 70505,
+            "price_original": 399999,
+            "discount_percent": 82,
+            "rating": 4.7,
+            "reviews_count": 7367,
+            "url": "https://www.ozon.ru/product/vysokoproizvoditelnyy-igrovoy-noutbuk-igrovoy-noutbuk-16-1-amd-ryzen-7-7735hs-ram-16-gb-ssd-512-4031972130/"
+        },
+        {
+            "id": "3890785230",
+            "title": "Ноутбук 15.6\", Intel Pentium Gold 6500Y, RAM 16 ГБ, SSD 512 ГБ, Windows Home, серый металлик, Русская раскладка",
+            "price_current": 35837,
+            "price_original": 35837,
+            "discount_percent": 0,
+            "rating": 4.8,
+            "reviews_count": 84475,
+            "url": "https://www.ozon.ru/product/noutbuk-15-6-intel-pentium-gold-6500y-ram-16-gb-ssd-512-gb-windows-home-seryy-metallik-3890785230/"
+        },
+        {
+            "id": "4918977062",
+            "title": "Neobihier Игровой ноутбук 16.1\", Intel Core i7-11370H, RAM 16 ГБ, SSD 512 ГБ, NVIDIA GeForce RTX 4050 для ноутбуков (6 Гб), Windows Pro, серый металлик, Русская раскладка",
+            "price_current": 71774,
+            "price_original": 337779,
+            "discount_percent": 79,
+            "rating": 5.0,
+            "reviews_count": 1259,
+            "url": "https://www.ozon.ru/product/neobihier-igrovoy-noutbuk-16-1-intel-core-i7-11370h-ram-16-gb-ssd-512-gb-nvidia-geforce-rtx-4050-4918977062/"
+        },
+        {
+            "id": "5627965642",
+            "title": "Intel N95 Игровой Ноутбук для игр мощный Ноутбук 15.6\", Intel N95, RAM 32 ГБ, SSD 2048 ГБ, Intel UHD Graphics, Windows Pro, серый, Русская раскладка",
+            "price_current": 31565,
+            "price_original": 269500,
+            "discount_percent": 88,
+            "rating": 4.9,
+            "reviews_count": 9184,
+            "url": "https://www.ozon.ru/product/intel-n95-igrovoy-noutbuk-dlya-igr-moshchnyy-noutbuk-15-6-intel-n95-ram-32-gb-ssd-2048-gb-intel-uhd-5627965642/"
+        },
+        {
+            "id": "3497309898",
+            "title": "Neobihier Игровой ноутбук 15.6\", AMD Ryzen 9 5900HX, RAM 16 ГБ, SSD 512 ГБ, AMD Radeon Vega 8, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 40383,
+            "price_original": 142537,
+            "discount_percent": 72,
+            "rating": 5.0,
+            "reviews_count": 1430,
+            "url": "https://www.ozon.ru/product/neobihier-igrovoy-noutbuk-15-6-amd-ryzen-9-5900hx-ram-16-gb-ssd-512-gb-amd-radeon-vega-8-windows-3497309898/"
+        },
+        {
+            "id": "2389873475",
+            "title": "Ноутбук 14.1\", Intel Pentium J3710, RAM 8 ГБ, SSD 512 ГБ, Intel HD Graphics 405, Windows Pro, розовый, Русская раскладка",
+            "price_current": 30037,
+            "price_original": 30037,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 71061,
+            "url": "https://www.ozon.ru/product/noutbuk-14-1-intel-pentium-j3710-ram-8-gb-ssd-512-gb-intel-hd-graphics-405-windows-pro-rozovyy-2389873475/"
+        },
+        {
+            "id": "4083326945",
+            "title": "Xiaomi Book 16 Pro 2026, 3.2K 3200x2000 165Hz Ноутбук 16\", Intel Core Ultra 5 338H, RAM 32 ГБ, SSD 1024 ГБ, Intel Arc B370, Windows Pro, (A1602), серый, Русская раскладка",
+            "price_current": 108850,
+            "price_original": 173088,
+            "discount_percent": 37,
+            "rating": 5.0,
+            "reviews_count": 36,
+            "url": "https://www.ozon.ru/product/xiaomi-book-16-pro-2026-3-2k-3200x2000-165hz-noutbuk-16-intel-core-ultra-5-338h-ram-32-gb-ssd-1024-4083326945/"
+        },
+        {
+            "id": "1364262424",
+            "title": "Xiaomi Redmi Book 16 2024 i5-12450H 16 ГБ 512 ГБ FHD+ 60 Гц 16-дюймовый дисплей Intel UHD Graphics Поддержка русского языка бесплатный подарок \"Русские наклейки +мышь+Коврик для мыши\" Ноутбук 16\", Intel Core i5-12450H, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics, Windows Home, (i5-12450H), серый, Английская раскладка",
+            "price_current": 61283,
+            "price_original": 77873,
+            "discount_percent": 21,
+            "rating": 4.8,
+            "reviews_count": 8500,
+            "url": "https://www.ozon.ru/product/xiaomi-redmi-book-16-2024-i5-12450h-16-gb-512-gb-fhd-60-gts-16-dyuymovyy-displey-intel-uhd-1364262424/"
+        },
+        {
+            "id": "3291963293",
+            "title": "Lunnen Ноутбук 16\", AMD Ryzen 7 7840HS, RAM 32 ГБ, SSD 1000 ГБ, AMD Radeon 780M, Windows Home, бежевый, Русская раскладка",
+            "price_current": 100430,
+            "price_original": 100430,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 7190,
+            "url": "https://www.ozon.ru/product/lunnen-noutbuk-16-amd-ryzen-7-7840hs-ram-32-gb-ssd-1000-gb-amd-radeon-780m-windows-home-bezhevyy-3291963293/"
+        },
+        {
+            "id": "5236592193",
+            "title": "izik Ноутбук для учебы и работы игровой Мощный Ноутбук 15.6\", Intel Celeron 3855U, RAM 32 ГБ, SSD 2048 ГБ, Windows Pro, серебристый, Русская раскладка",
+            "price_current": 34194,
+            "price_original": 34194,
+            "discount_percent": 0,
+            "rating": 4.8,
+            "reviews_count": 81410,
+            "url": "https://www.ozon.ru/product/izik-noutbuk-dlya-ucheby-i-raboty-igrovoy-moshchnyy-noutbuk-15-6-intel-celeron-3855u-ram-32-gb-5236592193/"
+        },
+        {
+            "id": "4695873085",
+            "title": "Ноутбук для учебы и работы игровой 4 ядра Ноутбук 15.6\", Intel N95, RAM 32 ГБ, SSD 2048 ГБ, Windows Pro, серебристый, светло-серый, Русская раскладка",
+            "price_current": 33258,
+            "price_original": 33258,
+            "discount_percent": 0,
+            "rating": 4.7,
+            "reviews_count": 71484,
+            "url": "https://www.ozon.ru/product/noutbuk-dlya-ucheby-i-raboty-igrovoy-4-yadra-noutbuk-15-6-intel-n95-ram-32-gb-ssd-2048-gb-windows-4695873085/"
+        },
+        {
+            "id": "4916151821",
+            "title": "Apple Neo Ноутбук 13\", Apple A18, RAM 8 ГБ, SSD 256 ГБ, MacOS, (4324050), синий, Русская раскладка",
+            "price_current": 78999,
+            "price_original": 78999,
+            "discount_percent": 0,
+            "rating": 4.9,
+            "reviews_count": 915,
+            "url": "https://www.ozon.ru/product/apple-neo-noutbuk-13-apple-a18-ram-8-gb-ssd-256-gb-macos-4324050-siniy-russkaya-raskladka-4916151821/"
+        },
+        {
+            "id": "3994863162",
+            "title": "PWR Ноутбук 14\", Intel Celeron N3350, RAM 6 ГБ, SSD 2048 ГБ, Intel HD Graphics 500, Windows Pro, (silver), серый металлик, серебристый, Русская раскладка",
+            "price_current": 21837,
+            "price_original": 87037,
+            "discount_percent": 75,
+            "rating": 4.9,
+            "reviews_count": 960,
+            "url": "https://www.ozon.ru/product/pwr-noutbuk-14-intel-celeron-n3350-ram-6-gb-ssd-2048-gb-intel-hd-graphics-500-windows-pro-3994863162/"
+        }
+    ]
+}

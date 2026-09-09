@@ -1,0 +1,6 @@
+.venv/
+.env
+ozon_profile/
+__pycache__/
+*.pyc
+.idea/
