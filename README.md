@@ -1,4 +1,4 @@
- [Читать на русском](README_RU.md)
+🇷🇺 [Читать на русском](README_RU.md)
 
 A high-performance e-commerce intelligence scraper engineered to extract real-time catalog listings, pricing metrics, and inventory data from Ozon while seamlessly bypassing enterprise-grade WAF layers.
 
